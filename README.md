@@ -1,6 +1,7 @@
-![Andmar.me](https://github.com/mackenzieaeeinc/mackenzieaeeinc/blob/main/github_social.png)
 
 <!--
+![Andmar.me](https://github.com/mackenzieaeeinc/mackenzieaeeinc/blob/main/github_social.png)
+
 **mackenzieaeeinc/mackenzieaeeinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
